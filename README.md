@@ -12,7 +12,9 @@ Author: [Teodora Vuković](https://www.liri.uzh.ch/en/aboutus/Teodora-Vuković.h
 
 ## Content of the repository
 
-[candor_process_dir.ipynb](candor_process_dir.ipynb) - extract interview files from the original nested directory structure in a single directory with a flat structure; change filenames for easier handling; change the content od the features files 
+[candor_process_dir.ipynb](candor_process_dir.ipynb) - extract interview files from the original nested directory structure in a single directory with a flat structure; change filenames for easier handling; change the content od the features files
+
 [multimodal_candor_analysis.ipynb](multimodal_candor_analysis.ipynb) - exploration and analysis of CANDOR corpus files
+
 [stanza_candor_analysis.ipynb](stanza_candor_analysis.ipynb) - annotation of the CANDOR transcripts using Stanza language models and analysis using the annotated corpus files
 
